@@ -7,7 +7,7 @@ El programa esta conformado principalmente por su archivo base llamado "App", do
 que son las que hacen el manejo mas facil del todo el programa.
 Tambien tiene dos archivos con clases fundamentales para la organizacion y complementacion del menu llamadas "curso" y "estudiantes". 
 y por ultimo, y el que hace gran parte en este programa es llamdo "sistemaGestion" que contiene la clase princial y clases secundarias, 
-con funciones y validaciones fundamentales para que se realice correctamente el procedimiento del programa correctamente.
+con funciones y validaciones fundamentales para que se realice correctamente el procedimiento del programa.
 
 # Pasos para probar el programa
 
